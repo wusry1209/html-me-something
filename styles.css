@@ -367,8 +367,13 @@
     text-align: left;
   }
 
-  #header {
+  .header {
     padding: 50px, 60px;
+    text-align: center;
+
+  }
+
+  #div {
     text-align: center;
 
   }
